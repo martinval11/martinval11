@@ -7,3 +7,5 @@
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?martinval11=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
