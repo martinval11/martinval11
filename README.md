@@ -10,6 +10,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=martinval11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martinval11&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</h3>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=martinval11&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
