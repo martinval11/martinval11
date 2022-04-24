@@ -17,7 +17,7 @@
 <table width="100" align="center">
 <tr>
     <td align='center' width="350">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=martinval11&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" height="350">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=martinval11&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="550">
     </td>
    <td align='center' width="350">
         <img src="https://api.daily.dev/devcards/66e1ac5050494e799d80ef69c233b7e9.png?r=0cx" width="350">
