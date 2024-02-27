@@ -21,6 +21,7 @@ FullStack Developer, always learning and creating stuff <3
 <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF">
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
+
 ## Stats
 
 [![martinval11's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinval11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
