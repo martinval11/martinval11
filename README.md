@@ -27,3 +27,5 @@ FullStack Developer, always learning and creating stuff <3
 [![martinval11's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinval11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinval11&theme=radical&hide=c&layout=donut)
+
+<a href="https://app.daily.dev/martinval11"><img src="https://api.daily.dev/devcards/v2/GewtkaT1phfhjRn6xtXFO.png?r=1g3" width="356" alt="Martín's Dev Card"/></a>
